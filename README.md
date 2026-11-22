@@ -45,7 +45,7 @@ Spring Boot · PostgreSQL · MongoDB · Supabase · Vercel · Figma
 
 <p align="center">
   <a href="https://pinpoint.martomz.com">
-    <img src="https://res.cloudinary.com/dllsdiatn/image/upload/f_auto,q_auto,w_1200/v1793521326/portfolio/df105f65-a3f6-4a2e-a706-4543222d816e.png" width="720" alt="PinPoint project preview" />
+    <img src="https://res.cloudinary.com/dllsdiatn/image/upload/f_auto,q_auto,w_1200/v1795351326/portfolio/8d0beb67-3fa2-4148-a828-7cee6c956991.png" width="720" alt="PinPoint project preview" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@ A grid drawing and AR sketch app with precision pins and tools for transferring 
 
 <p align="center">
   <a href="https://cashpp.martomz.com">
-    <img src="https://res.cloudinary.com/dllsdiatn/image/upload/f_auto,q_auto,w_1200/v1793525464/portfolio/f6cb8e3f-c480-471b-9f42-7efef8d52094.png" width="720" alt="Cash++ Money Manager project preview" />
+    <img src="https://res.cloudinary.com/dllsdiatn/image/upload/f_auto,q_auto,w_1200/v1795351749/portfolio/884fc409-183a-4e55-a5ec-d5476eb9d4a6.png" width="720" alt="Cash++ Money Manager project preview" />
   </a>
 </p>
 
