@@ -67,7 +67,7 @@ A grid drawing and AR sketch app with precision pins and tools for transferring 
 An offline-first money manager for tracking expenses, income, budgets, and savings.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Closed%20testing-F59E0B?style=for-the-badge" alt="Closed testing" />
+  <a href="https://play.google.com/store/apps/details?id=com.martomz.cashwise"><img src="https://img.shields.io/badge/Google%20Play-Get%20Cash++-34A853?style=for-the-badge&amp;logo=googleplay&amp;logoColor=white" alt="Get Cash++ on Google Play" /></a>
   <a href="https://groups.google.com/g/cashpp-money-manager"><img src="https://img.shields.io/badge/Portfolio-Project%20details-7C3AED?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Cash++ project details" /></a>
 </p>
 
